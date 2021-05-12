@@ -10,16 +10,51 @@ knit: (function(input_file, encoding) {
  output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
  
 ---
-![](https://raw.githubusercontent.com/chanyingchi/greatknot.stops/master/GK-sat-tag.jpg){width=320px}
 
-<iframe width="620px" height="597px" src="https://www.yumpu.com/en/embed/view/9jUtXd3S8YaIozr4" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe><br><a href="https://www.yumpu.com/en/document/view/65623756/struggles-ashore-migration-ecology-of-threatened-shorebirds-in-the-east-asian-australasian-flyway" title="Struggles Ashore: Migration Ecology of Threatened Shorebirds in the East Asian−Australasian Flyway" target="_blank">Struggles Ashore: Migration Ecology of Threatened Shorebirds in the East Asian−Australasian Flyway</a>
+### View the entire thesis online: 
+<iframe width="1200px" height="800px" src="https://www.yumpu.com/en/embed/view/9jUtXd3S8YaIozr4" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe><br><a href="https://www.yumpu.com/en/document/view/65623756/struggles-ashore-migration-ecology-of-threatened-shorebirds-in-the-east-asian-australasian-flyway" title="Struggles Ashore: Migration Ecology of Threatened Shorebirds in the East Asian−Australasian Flyway" target="_blank">Struggles Ashore: Migration Ecology of Threatened Shorebirds in the East Asian−Australasian Flyway</a>
 
+<br>
+<br>
 
-Great Knots (_Calidris tenuirostris_) are small migratory shorebirds in the East Asian-Australasian Flyway that fly each year between breeding grounds in the eastern Russian Arctic and nonbreeding grounds in Australia. They are also [endangered](https://www.iucnredlist.org/species/22693359/155482913). One major threat is the habitat destruction and degradation in their stopping areas during their migration.
+Part of the thesis is downloadable from the University Library repository:
+https://research.rug.nl/nl/publications/struggles-ashore-migration-ecology-of-threatened-shorebirds-in-th
 
+### For the chapters that are published as journal articles, it is recommended to view/download from the journal's website:
 
-Find out more in the [article in the Journal of Applied Ecology.](https://doi.org/10.1111/1365-2664.13474)
+_Chapter 2_  Testing an attachment method for solar-powered tracking devices on a long-distance migrating shorebird
+  
+  Published in [Journal of Ornithology (2016) 157: 277–287](https://doi.org/10.1007/s10336-015-1276-4)
 
+<br>
+_Chapter 4_ When a typical jumper skips: itineraries and staging habitats used by Red Knots (_Calidris canutus piersmai_) migrating between northwest Australia and the New Siberian Islands
+  
+  Published in [Ibis](https://doi.org/10.1111/ibi.12964)
+
+<br>
+_Chapter 5_ Filling knowledge gaps in a threatened shorebird flyway through satellite tracking
+  
+  Published in [Journal of Applied Ecology (2019) 56: 2305-2315](https://doi.org/10.1111/1365-2664.13474)
+
+<br>
+_Chapter 6_ Conserving unprotected important coastal habitats in the Yellow Sea: shorebird occurrence, distribution and food resources at Lianyungang
+
+  Published in [Global Ecology and Conservation (2019) 20: e00724](https://doi.org/10.1111/1365-2664.13474)
+
+<br>
+_Box B_ Loss of habitat leads to loss of birds: reflections on the Jiangsu, China, coastal development plans
+
+  Published in [Wader Study (2017) 124: 93–98](https://doi.org/10.18194/ws.00077)
+
+<br>
+_Box C_ Incorporating shorebird movement information into ecological impact assessment and ‘Building with Nature’ port design
+
+  Related articles: 
+
+  + Building for nature: Preserving threatened bird habitat in port design
+[Water 12(8): 2134](https://doi.org/10.3390/w12082134)
+  + Ecological impact of land reclamation on Jiangsu coast (China): A novel ecotope assessment for Tongzhou Bay
+[Water Science and Engineering 13(1): 57-64](https://doi.org/10.1016/j.wse.2020.04.001)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
