@@ -1,0 +1,27 @@
+---
+title: "Struggles Ashore: Migration Ecology of Threatened Shorebirds in the East Asian−Australasian Flyway"
+
+output: html_document
+
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+ 
+---
+![](https://raw.githubusercontent.com/chanyingchi/greatknot.stops/master/GK-sat-tag.jpg){width=320px}
+
+<iframe width="620px" height="597px" src="https://www.yumpu.com/en/embed/view/9jUtXd3S8YaIozr4" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe><br><a href="https://www.yumpu.com/en/document/view/65623756/struggles-ashore-migration-ecology-of-threatened-shorebirds-in-the-east-asian-australasian-flyway" title="Struggles Ashore: Migration Ecology of Threatened Shorebirds in the East Asian−Australasian Flyway" target="_blank">Struggles Ashore: Migration Ecology of Threatened Shorebirds in the East Asian−Australasian Flyway</a>
+
+
+Great Knots (_Calidris tenuirostris_) are small migratory shorebirds in the East Asian-Australasian Flyway that fly each year between breeding grounds in the eastern Russian Arctic and nonbreeding grounds in Australia. They are also [endangered](https://www.iucnredlist.org/species/22693359/155482913). One major threat is the habitat destruction and degradation in their stopping areas during their migration.
+
+
+Find out more in the [article in the Journal of Applied Ecology.](https://doi.org/10.1111/1365-2664.13474)
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
