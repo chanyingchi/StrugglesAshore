@@ -1,0 +1,2 @@
+# StrugglesAshore
+PhD thesis
