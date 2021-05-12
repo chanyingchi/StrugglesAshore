@@ -20,7 +20,7 @@ knit: (function(input_file, encoding) {
 Part of the thesis is downloadable from the University Library repository:
 https://research.rug.nl/nl/publications/struggles-ashore-migration-ecology-of-threatened-shorebirds-in-th
 
-### For the chapters that are published as journal articles, it is recommended to view/download from the journal's website:
+### For the chapters that are published as journal articles, you can also view/download the article from the journal's website:
 
 _Chapter 2_  Testing an attachment method for solar-powered tracking devices on a long-distance migrating shorebird
   
@@ -29,7 +29,7 @@ _Chapter 2_  Testing an attachment method for solar-powered tracking devices on 
 <br>
 _Chapter 4_ When a typical jumper skips: itineraries and staging habitats used by Red Knots (_Calidris canutus piersmai_) migrating between northwest Australia and the New Siberian Islands
   
-  Published in [Ibis](https://doi.org/10.1111/ibi.12964)
+  Published in [Ibis (2021)](https://doi.org/10.1111/ibi.12964)
 
 <br>
 _Chapter 5_ Filling knowledge gaps in a threatened shorebird flyway through satellite tracking
